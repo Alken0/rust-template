@@ -1,0 +1,1 @@
+# Template Rust Project
